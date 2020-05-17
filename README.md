@@ -15,7 +15,7 @@
 
 支持棋盘格标定板。
 
-![image](https://github.com/w64228013/calibration_qt/blob/master/calibration.gif =800x600)
+![image](https://github.com/w64228013/calibration_qt/blob/master/calibration.gif){:height="800px" width="600px"}
 
 ## 畸变校正
 
