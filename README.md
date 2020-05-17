@@ -13,6 +13,9 @@
 
 ## 相机标定
 
+支持棋盘格标定板。
+![image](https://github.com/calibration.gif)
+
 ## 畸变校正
 
 ## 手眼标定
