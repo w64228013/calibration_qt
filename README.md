@@ -14,7 +14,7 @@
 ## 相机标定
 
 支持棋盘格标定板。
-![image](https://https://github.com/w64228013/calibration_qt/blob/master/calibration.gif)
+![image](https://github.com/w64228013/calibration_qt/blob/master/calibration.gif)
 
 ## 畸变校正
 
