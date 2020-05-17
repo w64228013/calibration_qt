@@ -1,2 +1,18 @@
-# calibration_qt
-An application of 2D eye-to-hand calibration for UR robotics
+# 手眼标定软件
+
+## 开发环境
++ Windows
++ Opencv 3.4
++ Qt 5.10.1
++ C++ 17
+
+
+## 采集
+
+可使用Kinect2.0摄像头，对标定板进行拍照。
+
+## 相机标定
+
+## 畸变校正
+
+## 手眼标定
